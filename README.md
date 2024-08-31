@@ -110,3 +110,4 @@ This program is distributed under three different licenses:
 
 You can get more information about Aseprite license in the
 [FAQ](https://www.aseprite.org/faq/#licensing-&-commercial).
+
